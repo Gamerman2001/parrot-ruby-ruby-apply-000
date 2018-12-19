@@ -4,5 +4,5 @@ def parrot(arg)
   if arg = nil
   puts "Squack!"
 else
-  return ar
+  return arg
 end  
